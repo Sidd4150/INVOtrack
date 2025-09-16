@@ -12,10 +12,11 @@ const geistMono = Geist_Mono({
 });
 
 export default function Home() {
+
   return (
     <main>
-      <h1>Welcome to Next.js!</h1>
-      <p>Get started by editing app/page.tsx</p>
+      <h1>Himal Desgin Inventory tracker</h1>
+      <p>Getting started</p>
     </main>
   );
 }
