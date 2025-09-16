@@ -8,3 +8,5 @@ Database: PostgreSQL
 ORM: Prisma (with TypeScript models)
 Auth: Clerk.dev 
 
+Hosting: 
+Vercel 
