@@ -17,6 +17,7 @@ export default function Home() {
     <main>
       <h1>Himal Desgin Inventory tracker</h1>
       <p>Getting started</p>
+
     </main>
   );
 }
